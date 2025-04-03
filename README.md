@@ -26,3 +26,8 @@ df <- test$PlayerEstimatedMetrics
 - player_id specific
 Defense
 
+### nba_teamplayeronoffdetails()
+- team_id specific
+PlayersOnCourtTeamPlayerOnOffDetails, PlayersOffCourtTeamPlayerOnOffDetails
+
+
